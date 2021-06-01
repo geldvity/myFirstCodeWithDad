@@ -38,8 +38,12 @@ print(oli.count('-'))
 text1 = '''
 '''
 text2 = '''
-'''`
+'''
 print(text1)
 print(text2)
 print(text1.count('d'))
 print(text2.count('-'))
+
+
+
+print('Hello World\n')
