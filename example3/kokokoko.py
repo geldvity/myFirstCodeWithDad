@@ -24,7 +24,7 @@ oli='''
 -=-0-=0-0_+)_)_+plogijjgrh8rr
 =-0=-o=P+_P+_
 ----=-
-p-=-=p-lfkporkgorjgiguighruighrhjiji
+p-=-p=p-lfkporkgorjgiguighruighrhjiji
 '''
 print(oli)
 print(ednard)

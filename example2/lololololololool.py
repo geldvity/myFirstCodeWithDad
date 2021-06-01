@@ -42,6 +42,6 @@ print("{1}jkjkj {0}nmnjnjk {2}".format(n,f,s))
 kaoru="please enter number + please enter last number"
 print(kaoru)
 five = int(input("please enter number : " ))
-night = int(input("please enter last number : "))
+night = int(input("plea19se enter last number : "))
 result = five + night
 print("Five :{0} ".format(result))
